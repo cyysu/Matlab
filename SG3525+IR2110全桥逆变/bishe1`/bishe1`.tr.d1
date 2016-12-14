@@ -1,0 +1,30 @@
+program                Saber
+release                2006.06.2SP2-5.9 Build 15 on 27-Nov-2006 Copyright 1985-2006 Synopsys, Inc.
+source_file            bishe1`
+created                Fri May 25 14:29 2012
+data_file              bishe1`.tr.d2
+format                 binary
+events_file            bishe1`.tr.d3
+events.format          binary
+events.record_size     0
+events.precision       double
+byte_order             little_endian
+fp_format              ieee
+machine_id             1001
+parameter._version_id  940301
+parameter._tbl_id      1337956158
+command                dctranalysis
+tag._stress
+tag._ipextract
+tag._fourier
+tag._delay
+xname                  t
+xunits                 _time
+unit._time
+ s
+ Seconds
+ Time
+ncolumns               287
+sproperty.xbegin       0000000000000000=0
+sproperty.xend         3FB999999999999A=0.1
+npoints                1349

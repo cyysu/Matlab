@@ -1,0 +1,217 @@
+SchMgr:SetTargetSimulator saber
+SchMgr:SchDesign bishe1`.ai_sch D:/Mr.du/毕业论文/bishe1`
+sch coords WINDOW 0 0 1252 592
+Mdi:FullSize
+sch pan right 798.72204472843u
+sch pan right 0.0063897763578275
+sch pan down 0.015202702702703
+sch pan right 0.0015974440894569
+sch pan down 0.0050675675675676
+sch pan right 0.011980830670927
+sch pan down 0.023648648648649
+sch pan right 0.0071884984025559
+sch pan down 0.011824324324324
+sch pan right 798.72204472843u
+sch pan down 0.0016891891891892
+sch pan right 798.72204472843u
+sch pan down 0.0016891891891892
+sch pan right 0.0015974440894569
+sch pan down 0.0016891891891892
+sch pan right 798.72204472843u
+sch pan down 0.0016891891891892
+sch pan right 0.0023961661341853
+sch pan down 0.0033783783783784
+sch pan right 0.0031948881789137
+sch pan down 0.0016891891891892
+sch pan right 0.0023961661341853
+sch pan down 0.0016891891891892
+sch pan right 0.0023961661341853
+sch pan right 0.0015974440894569
+sch pan right 798.72204472843u
+sch pan right 0.0015974440894569
+sch pan right 0.0015974440894569
+sch pan right 0.0015974440894569
+sch pan right 0.0015974440894569
+sch pan right 0.0023961661341853
+sch pan right 0.0023961661341853
+sch pan right 0.0015974440894569
+sch pan right 798.72204472843u
+sch pan right 0.0015974440894569
+sch pan right 798.72204472843u
+sch pan right 798.72204472843u
+sch pan right 798.72204472843u
+sch pan right 798.72204472843u
+sch pan right 798.72204472843u
+sch pan down -0.0016891891891892
+sch pan right 798.72204472843u
+sch pan right 0.0015974440894569
+sch pan right 798.72204472843u
+sch pan down -0.0016891891891892
+sch pan right 0.0023961661341853
+sch pan down -0.0050675675675676
+sch pan right 798.72204472843u
+sch pan down -0.0016891891891892
+sch pan right 798.72204472843u
+sch pan down -0.0016891891891892
+sch pan right 798.72204472843u
+sch pan down -0.0016891891891892
+sch pan down -0.0016891891891892
+sch pan right 798.72204472843u
+sch pan down -0.0050675675675676
+sch pan right 798.72204472843u
+sch pan down -0.0050675675675676
+sch pan down -0.0033783783783784
+sch pan down -0.0033783783783784
+sch pan right 798.72204472843u
+sch pan down -0.0050675675675676
+sch pan down -0.0016891891891892
+sch pan down -0.0016891891891892
+sch pan down -0.0016891891891892
+sch pan down -0.0016891891891892
+sch pan down -0.0033783783783784
+sch pan down -0.0033783783783784
+sch pan right 798.72204472843u
+sch pan down -0.0016891891891892
+sch pan right 798.72204472843u
+sch pan down -0.0016891891891892
+sch pan down -0.0016891891891892
+sch pan down -0.0016891891891892
+sch pan down -0.0033783783783784
+sch pan down -0.0016891891891892
+sch pan down -0.0033783783783784
+sch pan down -0.0016891891891892
+sch pan down -0.0033783783783784
+sch pan down -0.0016891891891892
+sch pan down -0.0033783783783784
+sch pan down -0.0016891891891892
+sch pan down -0.0033783783783784
+sch pan down -0.0016891891891892
+sch pan down -0.0016891891891892
+sch pan down -0.0033783783783784
+sch pan down -0.0016891891891892
+sch pan down -0.0016891891891892
+sch pan down -0.0016891891891892
+sch pan right 0.0015974440894569
+sch pan down -0.0067567567567568
+sch pan right 0.0015974440894569
+sch pan down -0.0033783783783784
+sch pan right 0.0039936102236422
+sch pan down -0.010135135135135
+sch pan right 0.005591054313099
+sch pan down -0.0084459459459459
+sch pan right 0.0047923322683706
+sch pan down -0.0050675675675676
+sch pan right 0.0023961661341853
+sch pan down -0.0016891891891892
+sch pan right 0.0063897763578275
+sch pan down -0.0016891891891892
+sch pan right 0.0071884984025559
+sch pan down -0.0033783783783784
+sch pan right 0.0087859424920128
+sch pan right 0.0031948881789137
+sch pan right 0.0031948881789137
+sch pan right 0.0079872204472843
+sch pan down -0.0033783783783784
+sch pan right 0.0047923322683706
+sch pan right 0.005591054313099
+sch pan right 0.0039936102236422
+sch pan right 0.0087859424920128
+sch pan right 0.011182108626198
+sch pan down 0.0084459459459459
+sch pan right 0.013578274760383
+sch pan down 0.015202702702703
+sch pan right 0.0087859424920128
+sch pan down 0.013513513513514
+sch pan right 0.0047923322683706
+sch pan down 0.0084459459459459
+sch pan right 0.0015974440894569
+sch pan down 0.0067567567567568
+sch pan right 0.0015974440894569
+sch pan down 0.0050675675675676
+sch pan right 798.72204472843u
+sch pan down 0.0033783783783784
+sch pan down 0.0050675675675676
+sch pan right -798.72204472843u
+sch pan down 0.0084459459459459
+sch pan right -0.005591054313099
+sch pan down 0.015202702702703
+sch pan right -0.01517571884984
+sch pan down 0.018581081081081
+sch pan right -0.029552715654952
+sch pan down 0.015202702702703
+sch pan right -0.023961661341853
+sch pan down 0.0050675675675676
+sch pan right -0.005591054313099
+sch pan down 0.0033783783783784
+sch pan right -0.0047923322683706
+sch pan down 0.0016891891891892
+sch pan right -0.005591054313099
+sch pan right -0.0023961661341853
+sch pan right -0.0023961661341853
+sch pan right -0.0031948881789137
+sch pan right -0.0015974440894569
+sch coords WINDOW 0 0 1252 563
+netlist  -p VCC -g 0 -qual {SABER {}} -ae -tW -ns bishe1`.ai_ns -sitkrpc bishe1`
+Guide:LoadDesign -design D:/Mr.du/毕业论文/bishe1`/bishe1`.sin
+Saber:Send {aim}
+Saber:Send {dctr(density 100,tend 0.1,tstep 0.1m}
+GrProbe:Place 0 {} {} -3312 -1187
+Saber:Send {show last}
+Graph addsignal WF:1:1 -fill green -region 0 -yview real(y)
+# Signal0
+Graph:DSel
+Graph:Select Graph0
+Graph config -font {-family {OF Helvetica} -size 7} -noupdate
+Graph:SetCMap 1 Graph0
+Graph delgraph
+sch delete x_1147_
+# 1
+GrProbe:Place 0 {} {} 102 -65
+Graph config -font {-family {OF Helvetica} -size 7} -noupdate
+Graph:Select Graph1
+Graph:SetCMap 1 Graph1
+Graph:DSel
+Graph:SetCMap 1 Graph1
+Graph:SetCMap 1 Graph1
+Graph:SetCMap 1 Graph1
+AimUndo:Undo
+sch pan right -798.72204472843u
+sch pan right -0.005591054313099
+sch pan down 0.0053285968028419
+sch pan right -0.0023961661341853
+sch pan down 0.0035523978685613
+sch pan right -0.005591054313099
+sch pan down 0.0088809946714032
+sch pan right -0.011182108626198
+sch pan down 0.012433392539964
+sch pan right -0.014376996805112
+sch pan down 0.017761989342806
+sch pan right -0.0047923322683706
+sch pan down 0.0035523978685613
+sch pan right -0.0023961661341853
+sch pan down 0.0017761989342806
+sch pan right 798.72204472843u
+sch pan right 0.011182108626198
+sch pan down -0.0088809946714032
+sch pan right 0.0047923322683706
+sch pan right 0.022364217252396
+sch pan down -0.0035523978685613
+sch pan right 0.016773162939297
+sch pan right 798.72204472843u
+sch pan down -0.0017761989342806
+sch pan right -798.72204472843u
+sch pan down -0.0035523978685613
+sch pan down -0.017761989342806
+sch pan down -0.010657193605684
+sch pan down -0.0071047957371226
+sch pan right 0.0015974440894569
+sch pan down -0.015985790408526
+sch pan right 0.0015974440894569
+sch pan down -0.014209591474245
+sch pan down -0.0017761989342806
+sch pan right 0.0015974440894569
+sch pan down -0.0035523978685613
+sch zoom test_previous
+# 0
+Saber:Send {quit}
+Mdi:Close

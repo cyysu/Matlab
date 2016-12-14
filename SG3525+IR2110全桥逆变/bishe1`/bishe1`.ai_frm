@@ -1,0 +1,14 @@
+set Form(saber_settings) {
+    Guide:SetArray Form {
+    {tag,.dc,Current} {{density {1000}} {di {yes}} {siglist {/...}} {pins {all}} {fniter {1000}}}
+    {tag,.dc,Previous} {{density {1000}} {di {yes}} {siglist {/...}} {pins {all}} {fniter {1000}}}
+    {tag,.ac,Current} {{fbegin {100}} {fend {10meg}} {monitor {100}} {plot {openonly}} {siglist {n_10 n_34}}}
+    {tag,.ac,Previous} {{fbegin {100}} {fend {10meg}} {monitor {100}} {plot {openonly}} {siglist {n_10 n_34}}}
+    {tag,.dt,Current} {{swrange {from  to  by }}}
+    {tag,.dt,Previous} {{swrange {from  to  by }}}
+    {tag,.tr,Current} {{tend {0.1}} {tstep {0.1m}} {monitor {100}} {dcchoice {yes}} {siglist {/...}} {pins {all}} {terror {0.001}} {density {1000}} {stepsize {fixed}}}
+    {tag,.tr,Previous} {{tend {0.1}} {tstep {0.1m}} {monitor {100}} {dcchoice {yes}} {siglist {/...}} {pins {all}} {terror {0.001}} {density {1000}} {stepsize {fixed}}}
+    {tag,.dctr,Current} {{tend {0.1}} {tstep {0.1m}} {density {100}}}
+    {tag,.dctr,Previous} {{tend {0.1}} {tstep {0.1m}} {density {100}}}
+    }
+}

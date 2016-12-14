@@ -1,0 +1,33 @@
+program                Saber
+release                2006.06.2SP2-5.9 Build 15 on 27-Nov-2006 Copyright 1985-2006 Synopsys, Inc.
+source_file            bishe1`
+created                Sat Apr 21 14:45 2012
+data_file              bishe1`.ac.p2
+format                 binary
+byte_order             little_endian
+fp_format              ieee
+machine_id             1001
+parameter._version_id  940301
+parameter._tbl_id      1335017171
+command                acanalysis
+ytype                  complex
+xname                  f
+xunits                 _freq
+unit._freq
+ Hz
+ Hertz
+ Frequency
+tag.log_x
+ncolumns               3
+ynames
+ n_10
+ n_34
+yunits
+ v
+ v
+unit.v
+ V
+ Volts
+ Voltage
+xrange I 100 10meg
+npoints                100

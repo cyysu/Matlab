@@ -1,0 +1,7 @@
+SchMgr:SetTargetSimulator saber
+SchMgr:SchDesign bishe1`.ai_sch D:/Mr.du/╠ор╣бшнд/bishe1`
+sch pan down -0.1
+sch coords WINDOW 0 0 1252 592
+Mdi:FullSize
+sch zoom all
+Mdi:Close

@@ -1,0 +1,131 @@
+Copyright (c) 1985-2006 Synopsys, Inc.  Rights reserved under the
+copyright laws of the United States of America.
+
+Copyright 1991-1998 by Bell Labs Innovations for Lucent Technologies.
+Lucent Technologies disclaims all warranties with regard to this software,
+including all implied warranties of merchantability and fitness.  In no
+event shall Lucent Technologies be liable for any special, indirect or
+consequential damages or any damages whatsoever resulting from loss of use,
+data or profits, whether in an action of contract, negligence or other
+tortuous action, arising out of or in connection with the use or performance
+of this software.
+
+Copyright (c) 1988-1989 Berkeley EDIF Software, Wendell C. Baker, and
+Prof. A. Richard Newton.  All rights reserved.
+
+This software is made available AS IS, and neither the Electronics Research
+Laboratory or the University of California make any warranty about the
+software, its performance or its conformity to any specification.
+
+                   RESTRICTED RIGHTS LEGEND
+
+Use, duplication, or disclosure by the U.S. Government is subject to
+restrictions as set forth in Subparagraph (c)(1)(ii) of the Rights in
+Technical Data and Computer Software clause at DFARS 252.227-7013,
+FAR 52.227-14(g), or FAR 52.227-(19), as applicable.
+
+                        Synopsys, Inc.
+                   700 East Middlefield Rd.
+                   Mountain View, CA 94043
+
+U.S. Patent Nos. 4,868,770 (Canadian Patent No. 1,323,930); 4,985,860
+(Canadian Patent No. 1,319,989); 5,046,024; 5,199,103; 5,404,319;
+5,548,539; 6,532,569; 6,975,972. Other foreign patents pending.
+
+Synopsys and MAST are registered trademarks of Synopsys, Inc.
+CosmosScope and True-Hspice are trademarks of Synopsys, Inc.
+SABER is a registered trademark of SabreMark Limited Partnership
+and is used under license.  Other company and product names
+may be trademarks or service marks of others and should be
+treated as such.
+
+Saber 2006.06.2SP2-5.9 Build 15 on 27-Nov-2006 Copyright 1985-2006 Synopsys, Inc.
+MAST 2006.06.2SP2-3.7 Build 15 on 27-Nov-2006 Copyright 1985-2006 Synopsys, Inc.
+Library 2006.06.2SP2-5.5 Build 15 on 27-Nov-2006 Copyright 1985-2006 Synopsys, 
+Inc.
+
+     Searching for licenses ...
+SABER_SIMULATOR:                 license.
+Template pwmtype
+Template info_types
+Template pwm_info
+Template q_3p
+Template disch
+Template op3type
+Template op3inp
+Template pwli
+Template op3out
+Template op3c
+Template op3rpz
+Template zd
+Template opamp
+Template include_uc3525a
+Template ide_tech
+Template ide_d2an
+Template vref
+Template rmposc
+Template electric_enums
+Template driver
+Template totem
+Template siglio
+Function ratingbpn
+Function pwmpar
+Template short
+Template pwld
+Template clampv
+Template comp_l4
+Template tff_l4
+Template clock_l4
+Template nrlch_l4
+Template logic_op
+Template or3_l4
+Template or2_l4
+Function tmpval
+Template sg3525a
+Template vdp_buf_l4
+Template opctype
+Template op1htype
+Function argbp
+Function opcpar
+Function intrp3
+Template opsts
+Template op1h
+Template v2var
+Template var2v
+Template v_dc
+Template set_l4
+Template ide_a2dn
+Template id_tech
+Template id_d2a
+Template nand2_l4
+Template inv_l4
+Template nor3_l4
+Template ir2110
+Template mpv3type
+Template mosfet_info
+Template msp
+Template dptype
+Function dpparamc
+Function dpnsc
+Function dpvalc
+Function dpnoisec
+Template dpc
+Template cnlc
+Template mpv3c
+Template irfp460
+Template bishe1`
+Loading dynamic libraries...
+saber
+Host hp6515, Intel Pentium 4 running Windows NT 5.1 Ver. 2600 Service Pack 3
+Fri May 25 14:29 2012
+aim
+dctr(density 100,tend 0.1,tstep 0.1m
+The no_ramping algorithm failed. Trying the dyn_ramping algorithm.
+Succeeded with the dyn_ramping algorithm.
+execution time= 3.92 sec.
+show last
+Last PFile: tr
+Last DFile: tr
+quit
+bishe1`: total CPU execution time= 5.09 sec.
+

@@ -1,0 +1,46 @@
+################################################################################
+#                                                                              #
+#  Saber netlist for design bishe1`                                            #
+#  Created by the Saber Integration Toolkit 2006.06.2SP2-4.0 of Synopsys, Inc.      #
+#  Created on Fri May 25 14:29:16 2012.                                        #
+#                                                                              #
+################################################################################
+
+
+################################################################################
+#                                                                              #
+#  Instances found in the top level of design bishe1`                          #
+#                                                                              #
+################################################################################
+
+sg3525a.sg3525a1 eap:n_735 comp:n_824 b:n_724 soft:n_327 vc:n_1078 eam:n_824 \
+        sync:freeNet1 rt:n_779 shutdown:0 ct:n_632 gnd:0 vref:n_735 a:n_725 \
+        disch:n_342 oscout:freeNet2 vin:n_1078 
+c.c8 p:n_632 m:0 = c=0.1u
+r.r10 p:0 m:n_779 = rnom=130k
+c.c9 p:n_327 m:0 = c=1u
+r.r13 p:n_342 m:n_632 = rnom=100
+ir2110.ir2110_1 VDD:n_1078 HIN:n_724 SD:0 LIN:n_725 VSS:0 HO:n_845 VB:n_847 \
+        VS:n_846 VCC:n_848 COM:0 LO:n_850 
+ir2110.ir2110_2 VDD:n_1078 HIN:n_725 SD:0 LIN:n_724 VSS:0 HO:n_857 VB:n_860 \
+        VS:n_859 VCC:n_861 COM:0 LO:n_863 
+r.r3 p:n_845 m:n_852 = rnom=22
+c.c3 p:n_847 m:n_846 = c=47u
+c.c4 p:n_847 m:n_846 = c=1u
+d.d1 n:n_847 p:n_848 
+r.r4 p:n_850 m:n_851 = rnom=22
+r.r5 p:n_851 m:0 = rnom=100
+r.r6 p:n_857 m:n_858 = rnom=22
+c.c5 p:n_860 m:n_859 = c=47u
+c.c6 p:n_860 m:n_859 = c=1u
+d.d2 n:n_860 p:n_861 
+r.r7 p:n_863 m:n_864 = rnom=22
+r.r8 p:n_864 m:0 = rnom=100
+r.r9 p:n_852 m:n_846 = rnom=100
+r.r11 p:n_858 m:n_859 = rnom=100
+v_dc.v_dc2 p:n_1069 m:0 = dc_value=270
+v_dc.v_dc3 p:n_1078 m:0 = dc_value=12
+irfp460.irfp460_1 s:n_846 d:n_1069 g:n_852 
+irfp460.irfp460_2 s:0 d:n_846 g:n_851 
+irfp460.irfp460_3 s:n_859 d:n_1069 g:n_858 
+irfp460.irfp460_4 s:0 d:n_859 g:n_864 

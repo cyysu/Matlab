@@ -1,0 +1,7 @@
+invalid command name "SchMgr:IsInDrawingState"
+    while executing
+"SchMgr:IsInDrawingState $mgr"
+    (procedure "GrProbe:Leave" line 4)
+    invoked from within
+"GrProbe:Leave sch0 x_320_"
+    (command bound to event)
